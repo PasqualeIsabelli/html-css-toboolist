@@ -15,15 +15,17 @@ body{
     background-color: white;
 }
 
-.titolo{
+h1{
     font-size: 50px;
-    margin-top: 12px;
-    margin-left: 10px;
+    display: inline-block;
+    margin-left: 5px;
 }
 
 img{
     margin-top: 15px;
     margin-left: 10px;
+    line-height: 20px;
+    align-items: center;
 }
 
 main{
